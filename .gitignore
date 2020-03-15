@@ -144,3 +144,5 @@ vendor
 # fastlane
 fastlane/report.xml
 assetWizardSettings.xml
+app/signingConfigs/debug.gradle
+app/signingConfigs/keystore
